@@ -11,5 +11,9 @@ public class Main {
         } else {
             System.out.println(" Зачислено " + total1 + " руб.");
         }
+//     int refill > 1000 ? " Зачислено + total + руб." : " Зачислено " + total1 + " руб.";
+//     Пожалуйста, подскажите, в чем ошибка??
     }
 }
+
+
